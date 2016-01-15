@@ -1,7 +1,7 @@
 name: Crissite
 favicon: null
-layout_spectrum: 0.3602888360619545
-typography_spectrum: 0.5054386025294662
+layout_spectrum: 0.34045
+typography_spectrum: 0.21208
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8617522947024554
-  lightness: 0.7179986161645502
-  saturation: 0.017828450072556734
-  rhythmicContrast: 0.8664567430969328
+    - '#030407'
+    - '#ab6c45'
+    - '#e7945f'
+    - '#5d3623'
+    - '#d1b389'
+  brandStrength: 0.625
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
